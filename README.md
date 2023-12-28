@@ -26,3 +26,6 @@ A simple expense tracker app built with React Native to help you manage your exp
 
    ```bash
    git clone https://github.com/your-username/expense-tracker-app.git
+
+   cd expense-tracker-app
+
